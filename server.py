@@ -16,8 +16,8 @@ while 1:
     if direction == "straight":
         print("[f" + speed + "][f"+ speed + "][f"+ speed +"][f"+ speed+ "]")
     if direction == "left":
-        print("[r%d][r%d][f%d][f%d]", speed)
+        print("[f" + speed + "][f" + speed + "][f" + speed + "][f" + speed + "]")
     if direction == "right":
-        print("[f%d][f%d][r%d][r%d]", speed)
+        print("[f" + speed + "][f" + speed + "][f" + speed + "][f" + speed + "]")
     if direction == "back":
-        print("[r%d][r%d][r%d][r%d]", speed)
+        print("[f" + speed + "][f" + speed + "][f" + speed + "][f" + speed + "]")
