@@ -4,6 +4,7 @@
 
 ### Example Output
 ![](output.png)
+<br>
 **Note:** Output when "D" is pressed and speed is set to 3.
 
 ## Links
